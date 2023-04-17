@@ -5746,4 +5746,4 @@ webserver = ["flask", "pymongo", "sentry-sdk"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.10"
-content-hash = "3e6795a06f45e6c5b2c87d2048783eac900c53bf9348033b9813e3eb652acfb2"
+content-hash = "81413923592f9106a9fe7d68b7ee37e397e4b9fd3b1976b8a5379b0474327e62"
