@@ -29,7 +29,7 @@ homepage = "https://visualize.protein.properties"
 repository = "https://github.com/sacdallago/bio_embeddings"
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.10"
+python = ">=3.9,<3.11"
 
 # Packages which we had to patch
 #bio-embeddings-cpcprot = { version = "0.0.1", optional = true }
