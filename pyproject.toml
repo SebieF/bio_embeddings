@@ -54,6 +54,7 @@ scikit-learn = "^1.1.1"
 scipy = "^1.8.1"
 torch = ">=1.13.1,<=2.1.0"
 tqdm = "^4.64.0"
+llvmlite="^0.40.0"
 lock = "^2018.3.25"
 # https://github.com/ElArkk/jax-unirep/issues/107
 jax-unirep = { version = "^2.1.0", optional = true }
@@ -72,7 +73,7 @@ humanize = "^4.1.0"
 fair-esm = { version = "2.0.0", optional = true }
 flask = { version = "^2.2.2", optional = true }
 atomicwrites = "^1.4.0"
-pyyaml = "6.0"
+pyyaml = "6.0.1"
 # Hiwi addons
 sentencepiece="^0.1.97"
 celery="^5.2.7"
